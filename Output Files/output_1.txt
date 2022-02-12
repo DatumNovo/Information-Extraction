@@ -1,0 +1,24 @@
+Heart rate (beats per minute) 77 (65,90) 89 (74,106) 0.001
+
+Systolic blood pressure (mmHg) 143 (124,167) 133(110,157) 0.018
+Acute congestive heart failure 49 (13%) 10 (20%) 0.189
+Cardiogenic shock 24 (7%) 4 (8%) 0.760
+Cardiac arrest 21 (6%) 3 (6%) 1.000
+
+Transported by EMS (air and ground) 245 (67%) 22 (45%) 0.005
+First medical contact to device (minutes) 93(74,113) 104(75,121) 0.264
+
+Chest pain 312 (85%) 35 (71%) 0.012
+No chest pain 53 (15%) 14 (29%)
+
+Chest pain within past 30 days 120 (33%) 11 (22%) 0.141
+
+Initial troponin (ng/mL) 0.1(0.0,0.8) 11.9(2.5,24.9) <0.0001
+
+Peak troponin (ng/mL) 43 (17,91) 37 (13,113) 0.600
+
+Initial creatinine (mg/dL) 1.0(0.8,1.1)  1.0(0.8,1.3) 0.586
+
+Initial hemoglobin (g/dL) 14 (13,15) 13 (12.5,15) 0.033
+
+Left ventricular ejection fraction (%) 48 (38,58) 43 (33,53) 0.003
